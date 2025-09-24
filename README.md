@@ -10,3 +10,5 @@
 - That makes sense.
 - Fair enough.
 - How can I help you?
+- Mustafa once said:
+  You have cut the vein which brings life to our call.
