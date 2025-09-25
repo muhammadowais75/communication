@@ -14,3 +14,4 @@
 - Mustafa once said:
   You have cut the vein which brings life to our call.
 - It is a glitch (minor malfunction).
+- Hope you are doing well.
