@@ -1,4 +1,5 @@
-- You are fading.
+- You are fading away (someone is gradually disappearing).
+- There is distortion in your voice.
 - Let me quickly open the sheet.
 - This is supposed to be checked out on our side.
 - We have tentative plans for the weekend (the plans which are not final).
@@ -12,3 +13,4 @@
 - How can I help you?
 - Mustafa once said:
   You have cut the vein which brings life to our call.
+- It is a glitch (minor malfunction).
