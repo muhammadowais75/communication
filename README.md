@@ -1,3 +1,4 @@
+- They clung (cling - to hold tightly or stick) together in terror
 - You are fading away (someone is gradually disappearing).
 - There is distortion in your voice.
 - Let me quickly open the sheet.
