@@ -1,7 +1,7 @@
 - No worries at all.
 - They clung (cling - to hold tightly or stick) together in terror
 - You are fading away (someone is gradually disappearing).
-- There is distortion in your voice.
+- Fair enough.
 - Let me quickly open the sheet.
 - This is supposed to be checked out on our side.
 - We have tentative plans for the weekend (the plans which are not final).
