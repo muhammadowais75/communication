@@ -1,3 +1,4 @@
+
 - No worries at all.
 - They clung (cling - to hold tightly or stick) together in terror
 - You are fading away (someone is gradually disappearing).
@@ -13,8 +14,6 @@
 - That makes sense.
 - Fair enough.
 - How can I help you?
-- Mustafa once said:
-  You have cut the vein which brings life to our call.
 - It is a glitch (minor malfunction).
 - Hope you are doing well.
 - No worries at all.
@@ -32,6 +31,18 @@
 - Organic: Does not use synthetics (مصنوعی) during the production.
 - Inorganic: Uses synthetic during the production.
 - Synthesis (ترکیب)
+
+# Usman Asif's Talk
+- Networking for the sake of networking is a fluke (luck / accidental).
+- It is a transactional world we live in.
+- We are not under the obligation of make sense to you.
+- Companies Job is to make their financial sheet look better.
+- AI or any disruption that is happening or the transformations that are happening here are real things. These are not buzz words.
+- I would really encouraged and I have learned in my life to slow down or calm down.
+- Not wanting something is equal to having it. The best way you can afford a Mercedes is by not wanting it.
+
+# Mustafa once said:
+  "You have cut the vein which brings life to our call."
 
 # An unofficial slogan among the U.S. Army Marines
 “Improvise (Create or perform spontaneously or without preparation), Adapt (become adjusted to new conditions), Overcome (Succeed in dealing with)”
