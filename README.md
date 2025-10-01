@@ -30,6 +30,5 @@
 - Lingering (Lasting for a long time)
 - Cluster (a group of similar things positioned or occurring closely together)
 - Organic: Does not use synthetics (مصنوعی) during the production.
-- 
-Inorganic: Uses synthetic during the production.
-Synthesis (ترکیب)
+- Inorganic: Uses synthetic during the production.
+- Synthesis (ترکیب)
