@@ -1,4 +1,4 @@
-
+- The decision to use CQRS over a traditional service layer often boils down / comes down (to summarize or reduce something to its most essential point or core element) to the complexity and scalability requirements of your application.
 - No worries at all.
 - They clung (cling - to hold tightly or stick) together in terror
 - You are fading away (someone is gradually disappearing).
