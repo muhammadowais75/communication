@@ -3,6 +3,7 @@
 - I will try. -> I will take care of it.
 - Do you understand me? -> Does that make sense?
 - It's very important. -> It's is high priority.
+
 - Absolutely! Let's start with introducing yourself in a meeting.
   "Hi, my name is Owais, and I work in the BeSpoke department"
   "I would like to suggest we focus more on video content."
