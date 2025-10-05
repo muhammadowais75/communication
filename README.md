@@ -1,3 +1,13 @@
+# Elsa Speak
+```js
+- I will try. -> I will take care of it.
+- Do you understand me? -> Does that make sense?
+- It's very important. -> It's is high priority.
+- Absolutely! Let's start with introducing yourself in a meeting.
+  "Hi, my name is Owais, and I work in the BeSpoke department"
+  "I would like to suggest we focus more on video content."
+  "Nice Work! That sounded professional and clear. You're improving - Congrats!"
+```
 - The decision to use CQRS over a traditional service layer often boils down / comes down (to summarize or reduce something to its most essential point or core element) to the complexity and scalability requirements of your application.
 - No worries at all.
 - They clung (cling - to hold tightly or stick) together in terror
