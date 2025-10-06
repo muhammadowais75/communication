@@ -1,3 +1,7 @@
+# HBR - These 3 Personality Traits Affect What You Earn — but Only After Age 40
+- We often hear about the power of personality in shaping our careers — how some traits are beneficial while others are more harmful. But it is less clear when personality traits matter most and who benefits most from them. A recent paper investigates this by looking at the connection between personality traits and lifetime earnings among men at different ages. It finds that men’s earnings are not affected by personality at all in the beginning of their careers, but that men who are more conscientious (wishing to do one's work well and thoroughly) and extroverted, as well as less agreeable, reap large benefits between their 40s and 60s. The evidence also points to a subgroup of men who benefit from these traits more than twice as much as others: those with a graduate education.
+
+
 # Elsa Speak
 ```js
 - I will try. -> I will take care of it.
