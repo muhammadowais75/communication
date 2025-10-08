@@ -1,3 +1,7 @@
+# Can't Connect at the Moment Response 
+- Thank you for your call earlier. Apologies, I was caught up at the time. I'm available now if you'd like to connect.
+- Sorry, I’m caught up at the moment. Will get back to you as soon as I’m free, Insha’Allah.
+
 - Tremor is a neurological condition that includes shaking or trembling movements in one or more parts of the body, most commonly affecting a person's hands.
 - Grep is a command-line utility in Unix-like operating systems (such as Linux) used for searching text. The name grep stands for "global regular expression print."
 - Body cramps are sudden, painful, uncontrollable muscle spasms (sudden muscle contraction).
