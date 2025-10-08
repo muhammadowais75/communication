@@ -1,3 +1,5 @@
+- A problem in speaking is called a speech disorder,
+
 # Can't Connect at the Moment Response 
 ```js
 - Thank you for your call earlier. Apologies, I was caught up at the time. I'm available now if you'd like to connect.
