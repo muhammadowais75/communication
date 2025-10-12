@@ -1,4 +1,6 @@
-- A problem in speaking is called a speech disorder,
+
+- Manual request is recommended when WSDL import is flaky (breaking).
+- A problem in speaking is called a speech disorder.
 
 # Can't Connect at the Moment Response 
 ```js
