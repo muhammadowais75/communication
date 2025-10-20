@@ -1,3 +1,4 @@
+- Nice — clear user story. Below is a concise, actionable backend plan.
 - Got you (I understand / I will take care of it / I have caught you).
 - She looked so pathetic (pitiful - قابل رحم) that I bent down to comfort her.
 - This is a deceptively (in an extent that gives misleading information - فریب سے) small story but it has meaningful backend work and almost no frontend.
