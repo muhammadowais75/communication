@@ -1,6 +1,6 @@
 # In memory of mentor, Adnan Hussain 
 ```js
-- He was the kind of a person who saw potential in people long before they saw it in themselves. 
+He was the kind of a person who saw potential in people long before they saw it in themselves. 
 ```
 - The backend needs: DB changes to store instructions, APIs to read/save/update instructions, validation for phone numbers, and wiring into the checkout flow so selections are saved to the booking and optionally persisted to the user profile.
 - Nice — clear user story. Below is a concise, actionable backend plan.
