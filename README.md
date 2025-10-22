@@ -1,6 +1,8 @@
-# Postgresql DB Access
+
+- I stepped away for a short personal break and also faced a power outage.
+# Postgresql DB Access at Masaj
 ```js
-Finally (at last - آخر میں), we got Database access.
+Alturky - Finally (at last - آخر میں), we got Database access.
 ```
 # In memory of mentor, Adnan Hussain (LinkedIn Post)
 ```js
