@@ -1,4 +1,8 @@
-# In memory of mentor, Adnan Hussain 
+# Postgresql DB Access
+```js
+Finally (at last - آخر میں), we got Database access.
+```
+# In memory of mentor, Adnan Hussain (LinkedIn Post)
 ```js
 He was the kind of a person who saw potential in people long before they saw it in themselves. 
 ```
