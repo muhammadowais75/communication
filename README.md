@@ -1,5 +1,7 @@
 # Capital Talk - Laal Masjid
 - You can not equate (مساوی) Laal Masjid and South Waziristan.
+- An attempt to occupy a library is an out of proportion (تناسب سے باہر) step.
+
 # Daily Status at Masaj
 - I stepped away for a short personal break and also faced a power outage.
 # Postgresql DB Access at Masaj
