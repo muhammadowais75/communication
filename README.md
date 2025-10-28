@@ -1,3 +1,5 @@
+- Ordering a ride in a ride hailing (call out someone to attract attention) app (eg. Careem or Uber).
+  
 # Capital Talk - Laal Masjid
 - You can not equate (مساوی) Laal Masjid and South Waziristan.
 - An attempt to occupy a library is an out of proportion (تناسب سے باہر) step.
