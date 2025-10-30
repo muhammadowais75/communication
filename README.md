@@ -1,5 +1,9 @@
+# Ibn e Khizar at Masaj
+```js
+- Kindly transit (carrying of people or things from one place to another) your tickets if testing has been done.
+- I need to mark the sprint completed.
+```
 - Ordering a ride in a ride hailing (call out someone to attract attention) app (eg. Careem or Uber).
-  
 # Capital Talk - Laal Masjid
 - You can not equate (مساوی) Laal Masjid and South Waziristan.
 - An attempt to occupy a library is an out of proportion (تناسب سے باہر) step.
