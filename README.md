@@ -1,4 +1,4 @@
-# Ibn e Khizar at Masaj
+# Ibn-e-Khizar (Scrum Master) at Masaj
 ```js
 - Kindly transit (carrying of people or things from one place to another) your tickets if testing has been done.
 - I need to mark the sprint completed.
