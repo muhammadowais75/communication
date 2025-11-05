@@ -1,3 +1,8 @@
+# Mansour @ Masaj
+```js
+- Owais you can drop. Have a good day !
+```
+
 # Ibn-e-Khizar (Scrum Master) at Masaj
 ```js
 - Kindly transit (carrying of people or things from one place to another) your tickets if testing has been done.
