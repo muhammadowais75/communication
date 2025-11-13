@@ -1,3 +1,8 @@
+# Archive Data feature @ Masaj
+```js
+- Archive old records into CSV files and purge (remove/rid of unwanted) archived data.
+```
+
 # Abdullah Asad @ Masaj
 ```js
 - I am skeptical (doubtful) here.
