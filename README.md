@@ -1,3 +1,9 @@
+# Abdullah Asad @ Masaj
+```js
+- I am skeptical (doubtful) here.
+eg. Many experts remain skeptical about/of his claims.
+```
+
 # Mansour @ Masaj
 ```js
 - Owais you can drop. Have a good day !
